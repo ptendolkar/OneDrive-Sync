@@ -2,9 +2,9 @@
 Small Python program to sync images on OneDrive cloud with a local directory for linux distrubtions
 
 # Requirements
-* Python 2.7 or higher
-* Pyside 1.2.2 Python module (this will probably require installing QT)
-* Requests Python module
+* Python 2.7
+* [Pyside 1.2.2](https://pypi.python.org/pypi/PySide) Python module
+* [Requests](http://www.python-requests.org/en/latest/) Python module
 
 # Configuration file
 Before running anything, there is a file called `config` that needs to be editted with these values:
